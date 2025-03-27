@@ -1,0 +1,36 @@
+[Route("Login")]
+        [HttpPost]
+        public IActionResult Login(LoginViewModel login)
+        {
+            ModelState.Clear();
+            if (!ModelState.IsValid) { return View(login); }
+
+            var user = _userService.GetUserForLogin(login.Email.ToLower() , login.Password);
+
+           if(user == null) 
+            {
+               ModelState.AddModelError("Email", "کاربری با مشخصات وارد شده یافت نشد");
+               return View(login); 
+            }
+
+            List<Claim> claims = new List<Claim>
+            {
+               new Claim(ClaimTypes.Email,user.Email),
+               new Claim(ClaimTypes.Name , user.UserName),
+               new Claim(ClaimTypes.NameIdentifier ,user.UserId.ToString()),
+            };
+
+            var Identity = new ClaimsIdentity(claims,CookieAuthenticationDefaults.AuthenticationScheme);
+
+            var Principal = new ClaimsPrincipal(Identity);
+
+            var propertis = new AuthenticationProperties
+            {
+                IsPersistent = login.RememberMe
+            };
+
+            HttpContext.SignInAsync(Principal, propertis);
+
+
+            return Redirect("/");
+        }

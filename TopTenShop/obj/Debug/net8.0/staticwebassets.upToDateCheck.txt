@@ -1,0 +1,128 @@
+wwwroot\Admin\css\bootstrap.css
+wwwroot\Admin\css\bootstrap.min.css
+wwwroot\Admin\css\bootstrap-rtl.css
+wwwroot\Admin\css\plugins\dataTables\dataTables.bootstrap.css
+wwwroot\Admin\css\plugins\morris\morris-0.4.3.min.css
+wwwroot\Admin\css\plugins\social-buttons\social-buttons.css
+wwwroot\Admin\css\plugins\timeline\timeline.css
+wwwroot\Admin\css\sb-admin.css
+wwwroot\Admin\font-awesome\css\font-awesome.css
+wwwroot\Admin\font-awesome\css\font-awesome.min.css
+wwwroot\Admin\font-awesome\fonts\FontAwesome.otf
+wwwroot\Admin\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\Admin\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\Admin\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\Admin\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\Admin\font-awesome\less\bordered-pulled.less
+wwwroot\Admin\font-awesome\less\core.less
+wwwroot\Admin\font-awesome\less\fixed-width.less
+wwwroot\Admin\font-awesome\less\font-awesome.less
+wwwroot\Admin\font-awesome\less\icons.less
+wwwroot\Admin\font-awesome\less\larger.less
+wwwroot\Admin\font-awesome\less\list.less
+wwwroot\Admin\font-awesome\less\mixins.less
+wwwroot\Admin\font-awesome\less\path.less
+wwwroot\Admin\font-awesome\less\rotated-flipped.less
+wwwroot\Admin\font-awesome\less\spinning.less
+wwwroot\Admin\font-awesome\less\stacked.less
+wwwroot\Admin\font-awesome\less\variables.less
+wwwroot\Admin\font-awesome\scss\_bordered-pulled.scss
+wwwroot\Admin\font-awesome\scss\_core.scss
+wwwroot\Admin\font-awesome\scss\_fixed-width.scss
+wwwroot\Admin\font-awesome\scss\_icons.scss
+wwwroot\Admin\font-awesome\scss\_larger.scss
+wwwroot\Admin\font-awesome\scss\_list.scss
+wwwroot\Admin\font-awesome\scss\_mixins.scss
+wwwroot\Admin\font-awesome\scss\_path.scss
+wwwroot\Admin\font-awesome\scss\_rotated-flipped.scss
+wwwroot\Admin\font-awesome\scss\_spinning.scss
+wwwroot\Admin\font-awesome\scss\_stacked.scss
+wwwroot\Admin\font-awesome\scss\_variables.scss
+wwwroot\Admin\font-awesome\scss\font-awesome.scss
+wwwroot\Admin\fonts\glyphicons-halflings-regular.eot
+wwwroot\Admin\fonts\glyphicons-halflings-regular.svg
+wwwroot\Admin\fonts\glyphicons-halflings-regular.ttf
+wwwroot\Admin\fonts\glyphicons-halflings-regular.woff
+wwwroot\Admin\js\bootstrap.js
+wwwroot\Admin\js\bootstrap.min.js
+wwwroot\Admin\js\demo\dashboard-demo.js
+wwwroot\Admin\js\demo\flot-demo.js
+wwwroot\Admin\js\demo\morris-demo.js
+wwwroot\Admin\js\jquery-1.10.2.js
+wwwroot\Admin\js\plugins\dataTables\dataTables.bootstrap.js
+wwwroot\Admin\js\plugins\dataTables\jquery.dataTables.js
+wwwroot\Admin\js\plugins\flot\excanvas.min.js
+wwwroot\Admin\js\plugins\flot\jquery.flot.js
+wwwroot\Admin\js\plugins\flot\jquery.flot.pie.js
+wwwroot\Admin\js\plugins\flot\jquery.flot.resize.js
+wwwroot\Admin\js\plugins\flot\jquery.flot.tooltip.min.js
+wwwroot\Admin\js\plugins\metisMenu\jquery.metisMenu.js
+wwwroot\Admin\js\plugins\morris\morris.js
+wwwroot\Admin\js\plugins\morris\raphael-2.1.0.min.js
+wwwroot\Admin\js\sb-admin.js
+wwwroot\course\demo\00538f85 84c9 4e5f 8564 10d0ba2a676d.png
+wwwroot\course\demo\00982e51 9ea3 41d5 a0d9 4967d493c1ad.mp3
+wwwroot\course\demo\10f26119 907b 4c82 9069 3a357bf07b59.mp4
+wwwroot\course\demo\6bc26f32 791f 40d4 ac56 ce46797bcdea.mp4
+wwwroot\course\demo\c77919fd ae17 4ec7 b7dd 39396b5dd770.mp4
+wwwroot\course\Episode\Screenshot 2024-08-14 144858.png
+wwwroot\course\image\2f02d880 5319 42a3 9cf5 df68beecaf2e.jpg
+wwwroot\course\image\57e989b5 02db 4f32 a5e7 7cc6872b539e.jpg
+wwwroot\course\image\no-photo.jpg
+wwwroot\course\thumb\no-photo.jpg
+wwwroot\course\thumnail\2f02d880 5319 42a3 9cf5 df68beecaf2e.jpg
+wwwroot\course\thumnail\3841cec5 eb4b 4df2 af00 38b0b6c42c48.jpg
+wwwroot\course\thumnail\57e989b5 02db 4f32 a5e7 7cc6872b539e.jpg
+wwwroot\course\thumnail\no-photo.jpg
+wwwroot\css\bootstrap.min.css
+wwwroot\css\bootstrap-rtl.min.css
+wwwroot\css\CustomCss.css
+wwwroot\css\fonts\BYekan-webfont.eot
+wwwroot\css\fonts\BYekan-webfont.ttf
+wwwroot\css\fonts\BYekan-webfont.woff
+wwwroot\css\fonts\Material-Design-Iconic-Font.eot
+wwwroot\css\fonts\Material-Design-Iconic-Font.svg
+wwwroot\css\fonts\Material-Design-Iconic-Font.ttf
+wwwroot\css\fonts\Material-Design-Iconic-Font.woff
+wwwroot\css\fonts\Material-Design-Iconic-Font.woff2
+wwwroot\css\material-design-iconic-font.min.css
+wwwroot\css\style.css
+wwwroot\images\logo.png
+wwwroot\images\pattern.png
+wwwroot\images\pic\1.jpg
+wwwroot\images\pic\2.jpg
+wwwroot\images\pic\3.jpg
+wwwroot\images\pic\4.jpg
+wwwroot\images\pic\5.jpg
+wwwroot\images\pic\6.jpg
+wwwroot\images\pic\7.jpg
+wwwroot\images\pic\8.jpg
+wwwroot\images\pic\avatar.jpg
+wwwroot\images\pic\big-thumb.jpg
+wwwroot\images\pic\namad.png
+wwwroot\images\pic\namad-1.png
+wwwroot\images\slide.jpg
+wwwroot\js\bootstrap.min.js
+wwwroot\js\ckeditor_config.js
+wwwroot\js\jquery.min.js
+wwwroot\js\jquery.unobtrusive-ajax.min.js
+wwwroot\js\jquery.validate.js
+wwwroot\js\jquery.validate.min.js
+wwwroot\js\jquery.validate.unobtrusive.js
+wwwroot\js\jquery.validate.unobtrusive.min.js
+wwwroot\js\modernizr-custom.js
+wwwroot\js\script.js
+wwwroot\UserAvatar\15.jpg
+wwwroot\UserAvatar\2c4d1381 a705 43a2 87d8 86091acc873d.jpg
+wwwroot\UserAvatar\46744d2e 028a 4d1e 8829 2c29409926ba.jpg
+wwwroot\UserAvatar\64d52bca 3bb0 46a8 927f 96fcb49d34eb.jpg
+wwwroot\UserAvatar\7f1ec25a 81e2 4859 b386 09c364220f7e.jpg
+wwwroot\UserAvatar\8a82f636 f33f 490f b913 e94f7108f9d2.jpg
+wwwroot\UserAvatar\a2d93f60 34f0 481b b8e9 b448ce2def9f.jpg
+wwwroot\UserAvatar\a98901d2 cc4d 4136 91a4 6f5291f1e646.jpg
+wwwroot\UserAvatar\b0aec2e2 7ac0 44fb 9f30 2fa7f43736fc.jpg
+wwwroot\UserAvatar\d71edc41 80cd 4fd4 ace0 6f89748e6d22.jpg
+wwwroot\UserAvatar\dd0f0db7 a085 45ec b8f9 a4b148e53bb0.jpg
+wwwroot\UserAvatar\ecbd1666 2118 474e bd4c fd5617044292.jpg
+wwwroot\UserAvatar\fc1f0bf6 25b1 4dfe bbbf 7a93cf0c3c3f.jpg
+wwwroot\UserAvatar\fe56d63b 7302 4282 9c7a b773ed8d03b2.jpg

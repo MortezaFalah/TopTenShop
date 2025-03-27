@@ -1,0 +1,27 @@
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Core\bin\Debug\net6.0\TopTenShop.Core.deps.json
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Core\bin\Debug\net6.0\TopTenShop.Core.dll
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Core\bin\Debug\net6.0\TopTenShop.Core.pdb
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.csproj.AssemblyReference.cache
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.AssemblyInfoInputs.cache
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.AssemblyInfo.cs
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.dll
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Core\obj\Debug\net6.0\refint\TopTenShop.Core.dll
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.pdb
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Core\obj\Debug\net6.0\ref\TopTenShop.Core.dll
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\bin\Debug\net6.0\TopTenShop.Core.deps.json
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\bin\Debug\net6.0\TopTenShop.Core.dll
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\bin\Debug\net6.0\TopTenShop.Core.pdb
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.csproj.AssemblyReference.cache
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.AssemblyInfoInputs.cache
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.AssemblyInfo.cs
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.dll
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\obj\Debug\net6.0\refint\TopTenShop.Core.dll
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.pdb
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\obj\Debug\net6.0\ref\TopTenShop.Core.dll
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\bin\Debug\net6.0\TopTenShop.DataLayer.dll
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\bin\Debug\net6.0\TopTenShop.DataLayer.pdb
+C:\Users\Computer Bartar\source\repos\New folder (4)\TopTenShop.Core\obj\Debug\net6.0\TopTenShop.Core.csproj.CopyComplete

@@ -1,0 +1,14 @@
+E:\repos\New folder (4)\TopTenShop.DataLayer\bin\Debug\net8.0\TopTenShop.DataLayer.deps.json
+E:\repos\New folder (4)\TopTenShop.DataLayer\bin\Debug\net8.0\TopTenShop.DataLayer.runtimeconfig.json
+E:\repos\New folder (4)\TopTenShop.DataLayer\bin\Debug\net8.0\TopTenShop.DataLayer.dll
+E:\repos\New folder (4)\TopTenShop.DataLayer\bin\Debug\net8.0\TopTenShop.DataLayer.pdb
+E:\repos\New folder (4)\TopTenShop.DataLayer\obj\Debug\net8.0\TopTenShop.DataLayer.csproj.AssemblyReference.cache
+E:\repos\New folder (4)\TopTenShop.DataLayer\obj\Debug\net8.0\TopTenShop.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\New folder (4)\TopTenShop.DataLayer\obj\Debug\net8.0\TopTenShop.DataLayer.AssemblyInfoInputs.cache
+E:\repos\New folder (4)\TopTenShop.DataLayer\obj\Debug\net8.0\TopTenShop.DataLayer.AssemblyInfo.cs
+E:\repos\New folder (4)\TopTenShop.DataLayer\obj\Debug\net8.0\TopTenShop.DataLayer.csproj.CoreCompileInputs.cache
+E:\repos\New folder (4)\TopTenShop.DataLayer\obj\Debug\net8.0\TopTenShop.DataLayer.dll
+E:\repos\New folder (4)\TopTenShop.DataLayer\obj\Debug\net8.0\refint\TopTenShop.DataLayer.dll
+E:\repos\New folder (4)\TopTenShop.DataLayer\obj\Debug\net8.0\TopTenShop.DataLayer.pdb
+E:\repos\New folder (4)\TopTenShop.DataLayer\obj\Debug\net8.0\TopTenShop.DataLayer.genruntimeconfig.cache
+E:\repos\New folder (4)\TopTenShop.DataLayer\obj\Debug\net8.0\ref\TopTenShop.DataLayer.dll

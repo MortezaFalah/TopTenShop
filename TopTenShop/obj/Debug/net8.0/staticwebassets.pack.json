@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\css\\plugins\\dataTables\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\plugins\\dataTables\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\css\\plugins\\morris\\morris-0.4.3.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\plugins\\morris\\morris-0.4.3.min.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\css\\plugins\\social-buttons\\social-buttons.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\plugins\\social-buttons\\social-buttons.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\css\\plugins\\timeline\\timeline.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\plugins\\timeline\\timeline.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\css\\sb-admin.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\sb-admin.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Admin\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\demo\\dashboard-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo\\dashboard-demo.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\demo\\flot-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo\\flot-demo.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\demo\\morris-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo\\morris-demo.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\plugins\\dataTables\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\dataTables\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\plugins\\dataTables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\dataTables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\plugins\\flot\\excanvas.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\flot\\excanvas.min.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\plugins\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\plugins\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\plugins\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\plugins\\flot\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\flot\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\plugins\\metisMenu\\jquery.metisMenu.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\metisMenu\\jquery.metisMenu.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\plugins\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\morris\\morris.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\plugins\\morris\\raphael-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\morris\\raphael-2.1.0.min.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\Admin\\js\\sb-admin.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\sb-admin.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\UserAvatar\\15.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\15.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\UserAvatar\\2c4d1381 a705 43a2 87d8 86091acc873d.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\2c4d1381 a705 43a2 87d8 86091acc873d.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\UserAvatar\\46744d2e 028a 4d1e 8829 2c29409926ba.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\46744d2e 028a 4d1e 8829 2c29409926ba.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\UserAvatar\\64d52bca 3bb0 46a8 927f 96fcb49d34eb.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\64d52bca 3bb0 46a8 927f 96fcb49d34eb.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\UserAvatar\\7f1ec25a 81e2 4859 b386 09c364220f7e.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\7f1ec25a 81e2 4859 b386 09c364220f7e.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\UserAvatar\\8a82f636 f33f 490f b913 e94f7108f9d2.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\8a82f636 f33f 490f b913 e94f7108f9d2.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\UserAvatar\\a2d93f60 34f0 481b b8e9 b448ce2def9f.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\a2d93f60 34f0 481b b8e9 b448ce2def9f.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\UserAvatar\\a98901d2 cc4d 4136 91a4 6f5291f1e646.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\a98901d2 cc4d 4136 91a4 6f5291f1e646.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\UserAvatar\\b0aec2e2 7ac0 44fb 9f30 2fa7f43736fc.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\b0aec2e2 7ac0 44fb 9f30 2fa7f43736fc.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\UserAvatar\\d71edc41 80cd 4fd4 ace0 6f89748e6d22.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\d71edc41 80cd 4fd4 ace0 6f89748e6d22.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\UserAvatar\\dd0f0db7 a085 45ec b8f9 a4b148e53bb0.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\dd0f0db7 a085 45ec b8f9 a4b148e53bb0.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\UserAvatar\\ecbd1666 2118 474e bd4c fd5617044292.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\ecbd1666 2118 474e bd4c fd5617044292.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\UserAvatar\\fc1f0bf6 25b1 4dfe bbbf 7a93cf0c3c3f.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\fc1f0bf6 25b1 4dfe bbbf 7a93cf0c3c3f.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\UserAvatar\\fe56d63b 7302 4282 9c7a b773ed8d03b2.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\fe56d63b 7302 4282 9c7a b773ed8d03b2.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\course\\Episode\\Screenshot 2024-08-14 144858.png",
+      "PackagePath": "staticwebassets\\course\\Episode\\Screenshot 2024-08-14 144858.png"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\course\\demo\\00538f85 84c9 4e5f 8564 10d0ba2a676d.png",
+      "PackagePath": "staticwebassets\\course\\demo\\00538f85 84c9 4e5f 8564 10d0ba2a676d.png"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\course\\demo\\00982e51 9ea3 41d5 a0d9 4967d493c1ad.mp3",
+      "PackagePath": "staticwebassets\\course\\demo\\00982e51 9ea3 41d5 a0d9 4967d493c1ad.mp3"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\course\\demo\\10f26119 907b 4c82 9069 3a357bf07b59.mp4",
+      "PackagePath": "staticwebassets\\course\\demo\\10f26119 907b 4c82 9069 3a357bf07b59.mp4"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\course\\demo\\6bc26f32 791f 40d4 ac56 ce46797bcdea.mp4",
+      "PackagePath": "staticwebassets\\course\\demo\\6bc26f32 791f 40d4 ac56 ce46797bcdea.mp4"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\course\\demo\\c77919fd ae17 4ec7 b7dd 39396b5dd770.mp4",
+      "PackagePath": "staticwebassets\\course\\demo\\c77919fd ae17 4ec7 b7dd 39396b5dd770.mp4"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\course\\image\\2f02d880 5319 42a3 9cf5 df68beecaf2e.jpg",
+      "PackagePath": "staticwebassets\\course\\image\\2f02d880 5319 42a3 9cf5 df68beecaf2e.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\course\\image\\57e989b5 02db 4f32 a5e7 7cc6872b539e.jpg",
+      "PackagePath": "staticwebassets\\course\\image\\57e989b5 02db 4f32 a5e7 7cc6872b539e.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\course\\image\\no-photo.jpg",
+      "PackagePath": "staticwebassets\\course\\image\\no-photo.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\course\\thumb\\no-photo.jpg",
+      "PackagePath": "staticwebassets\\course\\thumb\\no-photo.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\course\\thumnail\\2f02d880 5319 42a3 9cf5 df68beecaf2e.jpg",
+      "PackagePath": "staticwebassets\\course\\thumnail\\2f02d880 5319 42a3 9cf5 df68beecaf2e.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\course\\thumnail\\3841cec5 eb4b 4df2 af00 38b0b6c42c48.jpg",
+      "PackagePath": "staticwebassets\\course\\thumnail\\3841cec5 eb4b 4df2 af00 38b0b6c42c48.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\course\\thumnail\\57e989b5 02db 4f32 a5e7 7cc6872b539e.jpg",
+      "PackagePath": "staticwebassets\\course\\thumnail\\57e989b5 02db 4f32 a5e7 7cc6872b539e.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\course\\thumnail\\no-photo.jpg",
+      "PackagePath": "staticwebassets\\course\\thumnail\\no-photo.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\css\\CustomCss.css",
+      "PackagePath": "staticwebassets\\css\\CustomCss.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\css\\fonts\\BYekan-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.eot"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\css\\fonts\\BYekan-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.ttf"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\css\\fonts\\BYekan-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.woff"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\pattern.png",
+      "PackagePath": "staticwebassets\\images\\pattern.png"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\pic\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\1.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\pic\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\2.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\pic\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\3.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\pic\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\4.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\pic\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\5.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\pic\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\6.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\pic\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\7.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\pic\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\8.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\pic\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\avatar.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\pic\\big-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\big-thumb.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\pic\\namad-1.png",
+      "PackagePath": "staticwebassets\\images\\pic\\namad-1.png"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\pic\\namad.png",
+      "PackagePath": "staticwebassets\\images\\pic\\namad.png"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\images\\slide.jpg",
+      "PackagePath": "staticwebassets\\images\\slide.jpg"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\js\\ckeditor_config.js",
+      "PackagePath": "staticwebassets\\js\\ckeditor_config.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\js\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\js\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\js\\modernizr-custom.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-custom.js"
+    },
+    {
+      "Id": "E:\\repos\\New folder (4)\\TopTenShop\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TopTenShop.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TopTenShop.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TopTenShop.Web.props",
+      "PackagePath": "build\\TopTenShop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TopTenShop.Web.props",
+      "PackagePath": "buildMultiTargeting\\TopTenShop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TopTenShop.Web.props",
+      "PackagePath": "buildTransitive\\TopTenShop.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

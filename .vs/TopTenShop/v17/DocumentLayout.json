@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\New folder (4)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\pages\\admin\\users\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\pages\\admin\\users\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\pages\\admin\\users\\edituser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\pages\\admin\\users\\edituser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\areas\\userpanel\\views\\home\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\areas\\userpanel\\views\\home\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\pages\\admin\\courses\\newsection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\pages\\admin\\courses\\newsection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\views\\shared\\_defaultlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\views\\shared\\_defaultlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\areas\\userpanel\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\areas\\userpanel\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\areas\\userpanel\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\areas\\userpanel\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92F283-EB97-4F00-A5EB-12EE2CDBA9E3}|TopTenShop.Core\\TopTenShop.Core.csproj|e:\\repos\\new folder (4)\\toptenshop.core\\security\\permissioncheckerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB92F283-EB97-4F00-A5EB-12EE2CDBA9E3}|TopTenShop.Core\\TopTenShop.Core.csproj|solutionrelative:toptenshop.core\\security\\permissioncheckerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\areas\\userpanel\\views\\wallet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\areas\\userpanel\\views\\wallet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\areas\\userpanel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\areas\\userpanel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92F283-EB97-4F00-A5EB-12EE2CDBA9E3}|TopTenShop.Core\\TopTenShop.Core.csproj|e:\\repos\\new folder (4)\\toptenshop.core\\services\\courseservieces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB92F283-EB97-4F00-A5EB-12EE2CDBA9E3}|TopTenShop.Core\\TopTenShop.Core.csproj|solutionrelative:toptenshop.core\\services\\courseservieces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\pages\\admin\\courses\\indexepisode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\pages\\admin\\courses\\indexepisode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\pages\\admin\\courses\\newsection.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\pages\\admin\\courses\\newsection.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\pages\\admin\\courses\\editcourse.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\pages\\admin\\courses\\editcourse.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\pages\\admin\\courses\\indexepisode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\pages\\admin\\courses\\indexepisode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830BEA5F-9D5E-417F-B78E-F5B7625FD239}|TopTenShop.DataLayer\\TopTenShop.DataLayer.csproj|e:\\repos\\new folder (4)\\toptenshop.datalayer\\entities\\courses\\courseepisode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830BEA5F-9D5E-417F-B78E-F5B7625FD239}|TopTenShop.DataLayer\\TopTenShop.DataLayer.csproj|solutionrelative:toptenshop.datalayer\\entities\\courses\\courseepisode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|e:\\repos\\new folder (4)\\toptenshop\\pages\\admin\\courses\\editcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8DB2E05-84DD-4F52-A0AC-50F42ACD15CD}|TopTenShop\\TopTenShop.Web.csproj|solutionrelative:toptenshop\\pages\\admin\\courses\\editcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewSection.cshtml",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Courses\\NewSection.cshtml",
+              "RelativeDocumentMoniker": "TopTenShop\\Pages\\Admin\\Courses\\NewSection.cshtml",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Courses\\NewSection.cshtml",
+              "RelativeToolTip": "TopTenShop\\Pages\\Admin\\Courses\\NewSection.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T08:52:54.175Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Users\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "TopTenShop\\Pages\\Admin\\Users\\EditUser.cshtml",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Users\\EditUser.cshtml",
+              "RelativeToolTip": "TopTenShop\\Pages\\Admin\\Users\\EditUser.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T14:26:17.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Areas\\UserPanel\\Views\\Home\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "TopTenShop\\Areas\\UserPanel\\Views\\Home\\EditProfile.cshtml",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Areas\\UserPanel\\Views\\Home\\EditProfile.cshtml",
+              "RelativeToolTip": "TopTenShop\\Areas\\UserPanel\\Views\\Home\\EditProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T20:32:47.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_DefaultLayout.cshtml",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Views\\Shared\\_DefaultLayout.cshtml",
+              "RelativeDocumentMoniker": "TopTenShop\\Views\\Shared\\_DefaultLayout.cshtml",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Views\\Shared\\_DefaultLayout.cshtml",
+              "RelativeToolTip": "TopTenShop\\Views\\Shared\\_DefaultLayout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T14:18:08.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Areas\\UserPanel\\Controllers\\WalletController.cs",
+              "RelativeDocumentMoniker": "TopTenShop\\Areas\\UserPanel\\Controllers\\WalletController.cs",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Areas\\UserPanel\\Controllers\\WalletController.cs",
+              "RelativeToolTip": "TopTenShop\\Areas\\UserPanel\\Controllers\\WalletController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAewCYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:18:02.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PermissionCheckerAttribute.cs",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop.Core\\Security\\PermissionCheckerAttribute.cs",
+              "RelativeDocumentMoniker": "TopTenShop.Core\\Security\\PermissionCheckerAttribute.cs",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop.Core\\Security\\PermissionCheckerAttribute.cs",
+              "RelativeToolTip": "TopTenShop.Core\\Security\\PermissionCheckerAttribute.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAMBAwB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:17:34.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Areas\\UserPanel\\Views\\Wallet\\Index.cshtml",
+              "RelativeDocumentMoniker": "TopTenShop\\Areas\\UserPanel\\Views\\Wallet\\Index.cshtml",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Areas\\UserPanel\\Views\\Wallet\\Index.cshtml",
+              "RelativeToolTip": "TopTenShop\\Areas\\UserPanel\\Views\\Wallet\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T14:17:26.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Areas\\UserPanel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TopTenShop\\Areas\\UserPanel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Areas\\UserPanel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TopTenShop\\Areas\\UserPanel\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T14:17:23.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TopTenShop\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TopTenShop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T19:46:04.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditUser.cshtml.cs",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Users\\EditUser.cshtml.cs",
+              "RelativeDocumentMoniker": "TopTenShop\\Pages\\Admin\\Users\\EditUser.cshtml.cs",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Users\\EditUser.cshtml.cs",
+              "RelativeToolTip": "TopTenShop\\Pages\\Admin\\Users\\EditUser.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:57:42.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Areas\\UserPanel\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "TopTenShop\\Areas\\UserPanel\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Areas\\UserPanel\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "TopTenShop\\Areas\\UserPanel\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T14:18:11.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Program.cs",
+              "RelativeDocumentMoniker": "TopTenShop\\Program.cs",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Program.cs",
+              "RelativeToolTip": "TopTenShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:50:12.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewSection.cshtml.cs",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Courses\\NewSection.cshtml.cs",
+              "RelativeDocumentMoniker": "TopTenShop\\Pages\\Admin\\Courses\\NewSection.cshtml.cs",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Courses\\NewSection.cshtml.cs",
+              "RelativeToolTip": "TopTenShop\\Pages\\Admin\\Courses\\NewSection.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:07:06.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseServieces.cs",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop.Core\\Services\\CourseServieces.cs",
+              "RelativeDocumentMoniker": "TopTenShop.Core\\Services\\CourseServieces.cs",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop.Core\\Services\\CourseServieces.cs",
+              "RelativeToolTip": "TopTenShop.Core\\Services\\CourseServieces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:41:42.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditCourse.cshtml.cs",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Courses\\EditCourse.cshtml.cs",
+              "RelativeDocumentMoniker": "TopTenShop\\Pages\\Admin\\Courses\\EditCourse.cshtml.cs",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Courses\\EditCourse.cshtml.cs",
+              "RelativeToolTip": "TopTenShop\\Pages\\Admin\\Courses\\EditCourse.cshtml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswEwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:52:22.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditCourse.cshtml",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Courses\\EditCourse.cshtml",
+              "RelativeDocumentMoniker": "TopTenShop\\Pages\\Admin\\Courses\\EditCourse.cshtml",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Courses\\EditCourse.cshtml",
+              "RelativeToolTip": "TopTenShop\\Pages\\Admin\\Courses\\EditCourse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T16:54:23.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IndexEpisode.cshtml.cs",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Courses\\IndexEpisode.cshtml.cs",
+              "RelativeDocumentMoniker": "TopTenShop\\Pages\\Admin\\Courses\\IndexEpisode.cshtml.cs",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Courses\\IndexEpisode.cshtml.cs",
+              "RelativeToolTip": "TopTenShop\\Pages\\Admin\\Courses\\IndexEpisode.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:04:24.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IndexEpisode.cshtml",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Courses\\IndexEpisode.cshtml",
+              "RelativeDocumentMoniker": "TopTenShop\\Pages\\Admin\\Courses\\IndexEpisode.cshtml",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop\\Pages\\Admin\\Courses\\IndexEpisode.cshtml",
+              "RelativeToolTip": "TopTenShop\\Pages\\Admin\\Courses\\IndexEpisode.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBTwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T05:15:55.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CourseEpisode.cs",
+              "DocumentMoniker": "E:\\repos\\New folder (4)\\TopTenShop.DataLayer\\Entities\\Courses\\CourseEpisode.cs",
+              "RelativeDocumentMoniker": "TopTenShop.DataLayer\\Entities\\Courses\\CourseEpisode.cs",
+              "ToolTip": "E:\\repos\\New folder (4)\\TopTenShop.DataLayer\\Entities\\Courses\\CourseEpisode.cs",
+              "RelativeToolTip": "TopTenShop.DataLayer\\Entities\\Courses\\CourseEpisode.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA6wCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:49:16.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+E:\repos\New folder (4)\TopTenShop.Core\bin\Debug\net8.0\TopTenShop.Core.deps.json
+E:\repos\New folder (4)\TopTenShop.Core\bin\Debug\net8.0\TopTenShop.Core.runtimeconfig.json
+E:\repos\New folder (4)\TopTenShop.Core\bin\Debug\net8.0\TopTenShop.Core.dll
+E:\repos\New folder (4)\TopTenShop.Core\bin\Debug\net8.0\TopTenShop.Core.pdb
+E:\repos\New folder (4)\TopTenShop.Core\bin\Debug\net8.0\TopTenShop.DataLayer.dll
+E:\repos\New folder (4)\TopTenShop.Core\bin\Debug\net8.0\TopTenShop.DataLayer.pdb
+E:\repos\New folder (4)\TopTenShop.Core\obj\Debug\net8.0\TopTenShop.Core.csproj.AssemblyReference.cache
+E:\repos\New folder (4)\TopTenShop.Core\obj\Debug\net8.0\TopTenShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\New folder (4)\TopTenShop.Core\obj\Debug\net8.0\TopTenShop.Core.AssemblyInfoInputs.cache
+E:\repos\New folder (4)\TopTenShop.Core\obj\Debug\net8.0\TopTenShop.Core.AssemblyInfo.cs
+E:\repos\New folder (4)\TopTenShop.Core\obj\Debug\net8.0\TopTenShop.Core.csproj.CoreCompileInputs.cache
+E:\repos\New folder (4)\TopTenShop.Core\obj\Debug\net8.0\TopTenSh.6DB81EE9.Up2Date
+E:\repos\New folder (4)\TopTenShop.Core\obj\Debug\net8.0\TopTenShop.Core.dll
+E:\repos\New folder (4)\TopTenShop.Core\obj\Debug\net8.0\refint\TopTenShop.Core.dll
+E:\repos\New folder (4)\TopTenShop.Core\obj\Debug\net8.0\TopTenShop.Core.pdb
+E:\repos\New folder (4)\TopTenShop.Core\obj\Debug\net8.0\TopTenShop.Core.genruntimeconfig.cache
+E:\repos\New folder (4)\TopTenShop.Core\obj\Debug\net8.0\ref\TopTenShop.Core.dll

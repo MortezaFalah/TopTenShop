@@ -1,0 +1,12 @@
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Web\bin\Debug\net6.0\TopTenShop.Web.deps.json
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Web\bin\Debug\net6.0\TopTenShop.Web.dll
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Web\bin\Debug\net6.0\TopTenShop.Web.pdb
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Web\obj\Debug\net6.0\TopTenShop.Web.csproj.AssemblyReference.cache
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Web\obj\Debug\net6.0\TopTenShop.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Web\obj\Debug\net6.0\TopTenShop.Web.AssemblyInfoInputs.cache
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Web\obj\Debug\net6.0\TopTenShop.Web.AssemblyInfo.cs
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Web\obj\Debug\net6.0\TopTenShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Web\obj\Debug\net6.0\TopTenShop.Web.dll
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Web\obj\Debug\net6.0\refint\TopTenShop.Web.dll
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Web\obj\Debug\net6.0\TopTenShop.Web.pdb
+C:\Users\Computer Bartar\source\repos\TopTenShop\TopTenShop.Web\obj\Debug\net6.0\ref\TopTenShop.Web.dll
