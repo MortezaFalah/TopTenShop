@@ -1,3 +1,7 @@
 *.jpg
+*.jpeg
 *.png
 *.gif
+*.svg
+/public/uploads/
+/storage/
